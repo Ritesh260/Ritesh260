@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @Ritesh260
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning Bachelor of Computer Applications
-- 💞️ I’m looking to collaborate on web developer
-- 📫 How to reach me 9839621748
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🚀 Web Developer | React.js & PHP Enthusiast | Final Year BCA Student  
+🛠️ I specialize in building responsive, user-friendly websites using React.js, PHP, MySQL & modern web tools. Passionate about clean UI/UX and meaningful digital experiences.  
+🌱 Currently learning full-stack development and working on real-world projects.  
+📍 Mumbai, India  
+🌐 Portfolio: https://ritesh-portfolio-55d291.netlify.app  
 
-<!---
-Ritesh260/Ritesh260 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
